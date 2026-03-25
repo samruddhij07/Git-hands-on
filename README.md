@@ -1,2 +1,2 @@
 # Git-hands-on
-Hands git practice
+Hands on git practice
